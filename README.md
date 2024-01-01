@@ -1,3 +1,7 @@
+This is a fork of stevensStringLib in the context of a code
+review. Read [the whole
+story](https://julien.jorge.st/posts/en/so-you-asked-for-feedback-stevensstringlib/).
+
 # stevensStringLib
 
 Welcome to stevensStringLib! This is a simple C++ library full of convenient functions for working with strings. It was created to make C++ more accessible and read more like plain English.
